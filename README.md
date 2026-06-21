@@ -10,6 +10,8 @@ This repository is a modified adaptation of the open-source work by PickNik Robo
 
 All core hardware drivers, original meshes, and baseline URDF structures belong to PickNik Robotics.
 
+<img width="590" height="624" alt="Screenshot from 2026-06-21 14-05-43" src="https://github.com/user-attachments/assets/239dfacd-2d97-46f0-8c52-c1b267a11f32" />
+
 ---
 
 ## Current Status & Limitations
